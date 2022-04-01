@@ -1,0 +1,14 @@
+body{
+    background-color: olivedrab;
+    color: darkorange;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-weight: 900;
+}
+
+div{
+    font-weight: 1100;
+    font-family: 'Roboto', sans-serif;
+}
